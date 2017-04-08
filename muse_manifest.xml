@@ -1,0 +1,59 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="teamwork.tk" resolutions="1x" timestamp="1491638936091">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mestre.css" crc="517652521" ref="o-que-fazemos:quem-somos"/>
+    <file name="o-que-fazemos.css" crc="3889174660" ref="o-que-fazemos"/>
+    <file name="index.css" crc="3918828983" ref="index"/>
+    <file name="quem-somos.css" crc="4051370869" ref="quem-somos"/>
+  </folder>
+  <folder name="assets">
+    <file name="consultoria.png" crc="4064083632" seo="true" mt="1491627712000"/>
+    <file name="equipe.png" crc="4014284067" seo="true" mt="1491627781000"/>
+    <file name="infraestrutura.png" crc="517683295" seo="true" mt="1491627873000"/>
+    <file name="laptop-bg.png" crc="4205954995" seo="true" mt="1491175174000"/>
+    <file name="logo.png" crc="446425601" seo="true" mt="1491165318000"/>
+    <file name="manutenção.png" crc="77494392" seo="true" mt="1491628041000"/>
+    <file name="normas.png" crc="369869999" seo="true" mt="1491628188000"/>
+    <file name="segurança.png" crc="4244877963" seo="true" mt="1491630088000"/>
+    <file name="treinamento-1.png" crc="324118211" seo="true" mt="1491628240000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>nós:phone>serviços:index:quem-somos:o-que-fazemos"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>nós:phone>serviços:index:quem-somos:o-que-fazemos"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>nós:phone>serviços:index:quem-somos:o-que-fazemos"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:phone>nós:phone>serviços:index:quem-somos:o-que-fazemos"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:phone>nós:phone>serviços:index:quem-somos:o-que-fazemos"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>nós:phone>serviços:index:quem-somos:o-que-fazemos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>nós:phone>serviços:index:quem-somos:o-que-fazemos"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>nós:phone>serviços:index:quem-somos:o-que-fazemos"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>nós:phone>serviços:quem-somos:o-que-fazemos"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="phone>nós:phone>serviços:quem-somos:o-que-fazemos"/>
+  </folder>
+  <folder name="images">
+    <file name="laptop-bg2.png" crc="3829703518" seo="true" ref="phone>index"/>
+    <file name="logo.png" crc="3886193240" seo="true" ref="phone>nós:phone>serviços:quem-somos:o-que-fazemos"/>
+    <file name="consultoria.png" crc="3915004912" seo="true" ref="phone>serviços:o-que-fazemos"/>
+    <file name="segurança.png" crc="449286641" seo="true" ref="phone>serviços:o-que-fazemos"/>
+    <file name="normas.png" crc="3780019718" seo="true" ref="phone>serviços:o-que-fazemos"/>
+    <file name="treinamento-1.png" crc="3949752914" seo="true" ref="phone>serviços:o-que-fazemos"/>
+    <file name="equipe.png" crc="4206985574" seo="true" ref="phone>serviços:o-que-fazemos"/>
+    <file name="manutenção.png" crc="312601681" seo="true" ref="phone>serviços:o-que-fazemos"/>
+    <file name="infraestrutura109x109.png" crc="3847157192" seo="true" ref="phone>serviços"/>
+    <file name="laptop-bg.png" crc="29718752" seo="true" ref="index"/>
+    <file name="infraestrutura.png" crc="517683295" seo="true" ref="o-que-fazemos"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-mestre.css" crc="3767107785" ref="phone>nós:phone>serviços"/>
+      <file name="n_s.css" crc="3834707594" ref="phone>nós"/>
+      <file name="index.css" crc="4111517488" ref="phone>index"/>
+      <file name="servi_os.css" crc="200446993" ref="phone>serviços"/>
+    </folder>
+    <file name="index.html" crc="430316752" seo="true" mt="1491638162422" redirect="true"/>
+    <file name="nós.html" crc="351390154" seo="true" mt="1491638855925" redirect="true"/>
+    <file name="serviços.html" crc="4098869285" seo="true" mt="1491638844493" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="71300936" seo="true" mt="1491629054830" redirect="true"/>
+  <file name="quem-somos.html" crc="450383182" seo="true" mt="1491636961983" redirect="true"/>
+  <file name="o-que-fazemos.html" crc="4064843449" seo="true" mt="1491638657781" redirect="true"/>
+</manifest>
