@@ -28,13 +28,13 @@ header#cabecalho a#marca{
     width: 100px;
     height: 41px;
     margin-left: 10px;
-    background: url(../_imagens/marca-pess-peq.png) no-repeat;
+    background: url(../imagens/marca-pess-peq.png) no-repeat;
     background-size: contain;
     transition: background 1s;
 }
 
 header#cabecalho a#marca:hover{
-    background: url(../_imagens/marca-prof-peq.png) no-repeat;
+    background: url(../imagens/marca-prof-peq.png) no-repeat;
     background-size: contain;
 }
 header#cabecalho h1{
